@@ -8,6 +8,7 @@
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"
+        app:menu="@menu/belownavigationbar"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent" >
 
